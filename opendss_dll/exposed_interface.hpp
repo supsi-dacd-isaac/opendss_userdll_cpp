@@ -1,6 +1,6 @@
 #pragma once
 #define DllExport __declspec(dllexport)
-#include "types.h"
+#include "types.hpp"
 #include <Windows.h>
 
 extern "C" {

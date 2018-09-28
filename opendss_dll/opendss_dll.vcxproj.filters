@@ -21,10 +21,10 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="exposed_interface.h">
+    <ClInclude Include="types.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="types.h">
+    <ClInclude Include="exposed_interface.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

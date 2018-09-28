@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "exposed_interface.h"
+#include "exposed_interface.hpp"
 
 
 int __stdcall New(TGeneratorVars &Genvars, TDynamicsRec &DynaData, TDSSCallBacks &Callbacks) {
