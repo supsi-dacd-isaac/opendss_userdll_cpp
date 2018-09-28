@@ -153,6 +153,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="opendss_dll.cpp" />
     <ClCompile Include="implementation.cpp" />
     <ClCompile Include="stdafx.cpp">
